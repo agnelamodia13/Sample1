@@ -3,7 +3,7 @@
 # FEJStesting
 Testing Front End Javascript with Karma, Jasmine, and Travis CLI
 
-##This repo serves as an example to guide you in testing your front end javascript.
+##This repo serves as an example to Guideuide you in testing your front end javascript.
 
 ##Dependencies
 - Node
